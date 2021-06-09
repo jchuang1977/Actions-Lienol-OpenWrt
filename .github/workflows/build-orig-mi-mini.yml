@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Lienol MI-MINI 19.7
+name: orig openwrt MI-MINI 19.7
 
 on:
   repository_dispatch:
